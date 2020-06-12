@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "hint": "hint index.html"
+  },
+  "devDependencies": {
+    "hint": "^6.0.6"
+  }
+}
