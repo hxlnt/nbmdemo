@@ -1,6 +1,3 @@
 {
-    "extends": [
-        "web-recommended"
-    ],
     "formatters": ["summary"]
 }
